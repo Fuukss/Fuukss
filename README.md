@@ -5,6 +5,8 @@
 
 - 👯 Core engine for above application [companies-data-scraper](https://github.com/Fuukss/companies-data-scraping)
 
+- Some Django Rest Framework skills [image-api](https://github.com/Fuukss/image-api) 
+
 - 👨‍💻 A website created to advertise services me and my friend offer to a small companies. If you need some professional help, text to us. [https://bntech.dev/](https://bntech.dev/)
 
 - 📫 How to reach me **rafal19fuchs@gmail.com**

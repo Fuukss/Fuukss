@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Rafał Fuchs</h1>
 <h3 align="center">I am 24 years old and i'm fascinated with problem solving, backend web development and designing business applications. I love improving my skills continuously and expanding IT knowledge.</h3>
 
-- 🔭 I'm currently working on application to scraping companies data to automation sending offers to them. [Email Marketing](https://github.com/Fuukss/EmailMarketing)
+- 🔭 I'm currently working on application to scraping companies data to automation sending offers to them. Tech stack: docker, django, celery, redis, react
 
 - 👯 Core engine for above application [companies-data-scraper](https://github.com/Fuukss/companies-data-scraping)
 

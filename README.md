@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋 I'm Rafał Fuchs</h1>
-<h3 align="center">I am 24 years old and i'm fascinated with problem solving, backend web development and designing business applications. I love improving my skills continuously and expanding IT knowledge.</h3>
+<h3 align="center">I am 27 years old and I'm fascinated with problem solving, backend web development, and designing business applications. I love continuously improving my skills and expanding my IT knowledge.</h3>
 
-- 🔭 I'm currently working on application to scraping companies data to automation sending offers to them. Tech stack: docker, django, celery, redis, react
+- 🌐 If you'd like to know more about me, visit my personal website: [rafalfuchs.dev](https://rafalfuchs.dev/)
 
-- 👯 Core engine for above application [companies-data-scraper](https://github.com/Fuukss/companies-data-scraping)
-
-- Some Django Rest Framework skills [image-api](https://github.com/Fuukss/image-api) 
-
-- 👨‍💻 A website created to advertise services me and my friend offer to a small companies. If you need some professional help, text to us. [https://bntech.dev/](https://bntech.dev/)
+- 👨‍💻 A website created to advertise services me and my friend offer to small companies. If you need some professional help, feel free to reach out to us. [https://bntech.dev/](https://bntech.dev/)
 
 - 📫 How to reach me **rafal19fuchs@gmail.com**
 
